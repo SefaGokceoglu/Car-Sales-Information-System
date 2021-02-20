@@ -1,0 +1,23 @@
+.Register{
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    height: auto;
+    border: black;
+    text-align: left;
+}
+body{
+    background-color: lightgrey;
+}
+.Form{
+    margin: 100px;
+    border: rgb(218, 21, 21);
+    padding: 5%;
+}
+.heading{
+    padding: 10%;
+    text-align: center;
+}
+.error-container{
+    margin: 5%;
+}

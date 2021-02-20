@@ -1,0 +1,50 @@
+.notUser{
+    margin: auto;
+    margin-top: 15%;
+    height: 200px;
+    background-color: white;
+    width: 500px;
+    text-align: center; 
+    padding-top: 80px;
+}
+
+.Error{
+    margin: 10%;
+    width: auto;
+}
+.Success{
+    margin: 10%;
+    width: auto;
+}
+
+.User{
+    margin-top: 2%;
+    text-align: center;
+}
+.car-section{
+    display:flex;
+}
+.car-container{
+    flex: 1;
+    margin: 5%;
+    padding: 3%;
+    height: 800px;
+    overflow-y:scroll;
+}
+.car-add-container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex: 1;
+    margin: 5%;
+    margin-right: 0;
+    min-width: 200px;
+    max-width: 19%;
+}
+.form{
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}

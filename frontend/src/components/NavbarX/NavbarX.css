@@ -1,0 +1,15 @@
+.Dropdown-item{
+    display: block;
+    margin: 1%;
+    padding: 2.5%;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.Dropdown-item:hover{
+    text-decoration:none;
+    color: black;
+}
+.Container-dropdown-item{
+    min-width: 8rem !important;
+}

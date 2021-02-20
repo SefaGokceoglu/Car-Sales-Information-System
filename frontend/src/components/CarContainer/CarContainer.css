@@ -1,0 +1,111 @@
+.Car-Container{
+
+    padding:10px;
+    margin-bottom: 2%;
+    min-width:  1000px;
+    background-color: rgb(179, 179, 179);
+}
+.status-needMaintenance{
+    background-color: rgb(255, 157, 0);
+
+}
+.status-rented{
+    background-color: rgb(0, 195, 255);
+
+}
+.status-sold{
+    background-color: rgb(52, 226, 52);
+}
+.icon{
+    margin: 10px;
+    background-color: transparent;
+}
+.primaryinfo{
+    padding: 1px;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+}
+.primaryinfo-long{
+    margin: 10px;
+    width: 200px;
+    padding: 1px;
+    text-align: center;
+}
+.secondaryinfo{
+    padding: 1px;
+    margin: 10px;
+    width: 160px;
+    text-align: center;
+}
+.secondaryinfo-long{
+    padding: 1px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+}
+.secondaryinfo-longx{
+    padding: 1px;
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+}
+.status{
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.primarylargeinfo-long{
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    text-align: center;
+}
+.primarylargeinfo-longx{
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 450px;
+    text-align: center;
+}
+.car-update{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 50px;
+}
+.car-update:hover{
+    color: white;
+}
+.car-sold{
+    color: black;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 50px;
+}
+.car-rented{
+    color: black;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 50px;
+}
+.car-delete{
+    color: black;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 50px;
+}
+p{
+    margin: 0;
+}

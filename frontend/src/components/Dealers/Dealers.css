@@ -1,0 +1,23 @@
+.dealer-container{
+    flex: 1;
+    margin: 5%;
+    padding: 3%;
+    height: 800px;
+    overflow-y:scroll;
+}
+.dealer-section{
+    margin: auto;
+    display: flex;
+}
+.User-dealer{
+    margin:auto
+}
+.dealer-add-container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex: 1;
+    margin: 5%;
+    margin-right: 0;
+    min-width: 200px;
+    max-width: 500px;
+}
