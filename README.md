@@ -40,7 +40,7 @@ There is a Form for User to add Dealers and a list of Dealers of the User added
 ![Dealers](https://user-images.githubusercontent.com/75680845/108597832-091e3880-739c-11eb-9261-2524b679cbf3.png)
 
 ## Cars Page
-If User didnt signed in User cannot reach to Dealers Page 
+If User didnt signed in User cannot reach to Cars Page 
 
 ![NeedLogin](https://user-images.githubusercontent.com/75680845/108597825-06bbde80-739c-11eb-9fb9-7920170d0c17.png)
 
