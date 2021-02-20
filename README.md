@@ -55,7 +55,7 @@ Cars colorized due to status of the car |
 İf car is Rented the color will be Blue|
 İf car is Sold the color will be Green|
 
-![Dealers](https://user-images.githubusercontent.com/75680845/108597832-091e3880-739c-11eb-9261-2524b679cbf3.png)
+![Cars](https://user-images.githubusercontent.com/75680845/108597826-07ed0b80-739c-11eb-91f4-4e351c8c7901.png)
 
 
 
