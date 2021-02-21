@@ -15,7 +15,7 @@ bcrypt
 
 
 ## Home Page
-This is Homa Page of Car Sales Information System 
+This is Home Page of Car Sales Information System 
 
 ![HomePage](https://user-images.githubusercontent.com/75680845/108597810-fad01c80-739b-11eb-9a0b-1df0f7d89c09.png)
 
